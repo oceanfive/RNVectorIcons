@@ -1,0 +1,6 @@
+use_frameworks!
+target 'RNVectorIcons_Tests' do
+  pod 'RNVectorIcons', :path => '../'
+  
+  
+end
